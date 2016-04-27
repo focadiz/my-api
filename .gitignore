@@ -1,0 +1,10 @@
+.classpath
+.project
+.settings/
+mule-project.xml
+target/
+catalog/
+.mule/
+.DS_Store
+.studio/
+bin/
